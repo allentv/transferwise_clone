@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X5 -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    style="fill-rule:evenodd;text-rendering:geometricPrecision;image-rendering:optimizeQuality;clip-rule:evenodd;shape-rendering:geometricPrecision"
+    xml:space="preserve"
+    viewBox="0 0 19406 10734"
+  >
+ <defs
+    >
+  <style
+        type="text/css"
+      >
+    .str1 {stroke:#898989;stroke-width:33.87;stroke-linejoin:round}
+    .str0 {stroke:#009933;stroke-width:33.87}
+    .fil3 {fill:none}
+    .fil2 {fill:#009933}
+    .fil0 {fill:#6666FF}
+    .fil1 {fill:gray}
+  </style
+    >
+ </defs
+  >
+ <g
+      id="Layer_x0020_1"
+    >
+  <path
+        class="fil0"
+        d="m19406 5292c0-1087-578-1969-1291-1969s-1291 882-1291 1969c0 214 578 387 1291 387s1291-173 1291-387z"
+    />
+  <circle
+        cy="2750"
+        cx="18116"
+        r="826"
+        class="fil0"
+    />
+  <path
+        class="fil1"
+        d="m14883 1782c0-575-306-1042-683-1042s-683 467-683 1042c0 113 306 205 683 205s683-92 683-205z"
+    />
+  <circle
+        cy="437"
+        cx="14200"
+        r="437"
+        class="fil1"
+    />
+  <path
+        class="fil1"
+        d="m10070 4194c0-799-424-1446-948-1446-523 0-948 648-948 1446 0 157 424 284 948 284 523 0 948-127 948-284z"
+    />
+  <circle
+        cy="2328"
+        cx="9122"
+        r="607"
+        class="fil1"
+    />
+  <path
+        class="fil2"
+        d="m5406 9923c0-2277-1210-4124-2703-4124-1492 0-2703 1847-2703 4124 0 448 1210 811 2703 811 1492 0 2703-363 2703-811z"
+    />
+  <circle
+        cy="4600"
+        cx="2703"
+        r="1730"
+        class="fil2"
+    />
+  <g
+        id="_270915408"
+      >
+   <path
+          class="fil2 str0"
+          d="m5880 8428l10494-3092-10431 3368c-78 24-155-18-172-95-17-76 31-158 109-182z"
+      />
+  </g
+    >
+  <line
+        y1="8566"
+        x2="16373"
+        x1="5911"
+        y2="5336"
+        class="fil3"
+    />
+  <g
+        id="_270915048"
+      >
+   <path
+          class="fil1 str1"
+          d="m10692 4182l5682 579-5648-435c-42-4-84-39-93-79s17-69 59-65z"
+      />
+  </g
+    >
+  <line
+        y1="4254"
+        x2="16373"
+        x1="10709"
+        y2="4761"
+        class="fil3"
+    />
+  <g
+        id="_270914496"
+      >
+   <path
+          class="fil1 str1"
+          d="m14884 2096l1936 1967-1983-1944c-5-5 2-14 15-20s28-7 32-3z"
+      />
+  </g
+    >
+  <line
+        y1="2107"
+        x2="16819"
+        x1="14860"
+        y2="4062"
+        class="fil3"
+    />
+ </g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
